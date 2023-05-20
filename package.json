@@ -1,0 +1,22 @@
+{
+  "name": "the-webserver",
+  "version": "0.0.1",
+  "description": "A package containing a very simple web server",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "a01"
+  },
+  "keywords": [
+    "web",
+    "server"
+  ],
+  "author": "@JoshIsCodingRN",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
